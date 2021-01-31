@@ -8,5 +8,4 @@ Tweets about all the Rock/Metal releases that came out today
 ![Demo](https://i.imgur.com/InFexJ2.png)
 
 ## Check it out at my 
-
-![Twitter](https://twitter.com/sehmim)
+[Twitter]: https://twitter.com/sehmim
