@@ -9,3 +9,5 @@ Tweets about all the Rock/Metal releases that came out today
 
 ## Check it out at my 
 [Twitter]: https://twitter.com/sehmim
+
+🤖🤖🤖
