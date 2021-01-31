@@ -2,7 +2,7 @@
   "name": "new-releases",
   "version": "1.0.0",
   "description": "twitter bot for new metal releases",
-  "main": "index.js",
+  "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
